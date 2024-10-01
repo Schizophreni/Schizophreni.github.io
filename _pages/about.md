@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hello, this is Wu Ran. I am currently a postdoc. in Shanghai Jiao Tong University, supervised by [prof. Chao Ma](https://vision.sjtu.edu.cn). Before that, I obtained my Ph.D. of computer science in Fudan University, supervised by [Prof. Hong Lu](https://faculty.fudan.edu.cn/mvl/zh_CN/index.htm).
+👋 Hello, this is Wu Ran. I am currently a postdoc. at Shanghai Jiao Tong University, supervised by [prof. Chao Ma](https://vision.sjtu.edu.cn). Before that, I obtained my Ph.D. of computer science at Fudan University, supervised by [Prof. Hong Lu](https://faculty.fudan.edu.cn/mvl/zh_CN/index.htm).
 
-🖼️ I am currently focusing on image restoration, 3D scene generation, and weather-related vision recognition. I am also interested in computer graphics techniqes. In the future, I will build my career primarily on weather-related open-world vision problems.
+🖼️ I am currently focusing on image restoration, 3D scene generation, and weather-related vision recognition. I am also interested in computer graphics techniques. In the future, I will build my career primarily on weather-related open-world vision problems.
 
-🌴 During my doctoral period, I have maintained a repository [DerainResearch](https://github.com/Schizophreni/DerainResearch), an extension to [DerainZoo](https://github.com/nnUyi/DerainZoo), to collect latest image restoration and image deraining papers. I will keep on maintaining this repo.
+🌴 During my doctoral period, I have maintained a repository [DerainResearch](https://github.com/Schizophreni/DerainResearch), an extension to [DerainZoo](https://github.com/nnUyi/DerainZoo), to collect the latest image restoration and image deraining papers. I will keep on maintaining this repo.
 
 # 🔥 News
 - *2024.09.02*: &nbsp;🎉 Serve as a reviewer for IEEE TCSVT.
 - *2024.08.13*: &nbsp;🎉 Invited to be a reviewer for upcoming ICLR 2025. 
 - *2024.07.04*: &nbsp;🎉 Serve as a reviewer for IEEE TMM.
-- *2024.07.16*: &nbsp;🎉🎉 One paper was accepted by ACMMM 2024 as poster. 
+- *2024.07.16*: &nbsp;🎉🎉 One paper was accepted by ACM'MM 2024 as a poster. 
 - *2024.06.19*: &nbsp;🎉🎉 Obtained a doctoral degree.
-- *2024.01.16*: &nbsp;🎉🎉 One paper was aceepted by ICLR 2024 as poster. 
+- *2024.01.16*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 as a poster. 
 
 # 📝 Publications 
 
@@ -89,9 +89,9 @@ TRNR: Task-driven image rain and noise removal with a few images based on patch 
 - *2016* National encouragement scholarship
 
 # 📖 Educations
-- *2021.09 - 2024.06*, I focused on low-level vision problem under the supervision of Prof. Hong Lu at School of Computer Science, Fudan University. In June 2024, I obtained my doctoral degree.
-- *2019.09 - 2021.06*, I was persuing a master's degree in School of Computer Science, Fudan University, supervised by Prof. Hong Lu. At that time, I was devoted to image deraining problem. 
-- *2015.09 - 2019.06*, I was persuing a bachelor's degree in Fudan University, majoring in Physics. 
+- *2021.09 - 2024.06*, I focused on low-level vision problems under the supervision of Prof. Hong Lu at the School of Computer Science, Fudan University. In June 2024, I obtained my doctoral degree.
+- *2019.09 - 2021.06*, I was pursuing a master's degree in the School of Computer Science, Fudan University, supervised by Prof. Hong Lu. At that time, I was devoted to image deraining problems. 
+- *2015.09 - 2019.06*, I was pursuing a bachelor's degree at Fudan University, majoring in Physics. 
 
 # 💬 Academic Presentations
 - *2022*, oral presentation for "Weakly-supervised temporal action localization with multi-head cross-modal attention" at PRICAI 2022. 
