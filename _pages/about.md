@@ -19,19 +19,35 @@ redirect_from:
 
 👋 Hello, this is Wu Ran. I am currently a postdoc. at Shanghai Jiao Tong University, supervised by [prof. Chao Ma](https://vision.sjtu.edu.cn). Before that, I obtained my Ph.D. of computer science at Fudan University, supervised by [Prof. Hong Lu](https://faculty.fudan.edu.cn/mvl/zh_CN/index.htm).
 
-🖼️ I am currently focusing on image restoration, 3D scene generation, and weather-related vision recognition. I am also interested in computer graphics techniques. In the future, I will build my career primarily on weather-related open-world vision problems.
+🖼️ I am currently focusing on vision foundation model distillation, driving scene reconstruction, and vision-language models. I am also interested in computer graphics techniques. In the future, I will build my career primarily on adopting vision foundation models, VLMs for various downstream tasks.
 
 🌴 During my doctoral period, I have maintained a repository [DerainResearch](https://github.com/Schizophreni/DerainResearch), an extension to [DerainZoo](https://github.com/nnUyi/DerainZoo), to collect the latest image restoration and image deraining papers. I will keep on maintaining this repo.
 
 # 🔥 News
-- *2024.09.02*: &nbsp;🎉 Serve as a reviewer for IEEE TCSVT.
-- *2024.08.13*: &nbsp;🎉 Invited to be a reviewer for upcoming ICLR 2025. 
-- *2024.07.04*: &nbsp;🎉 Serve as a reviewer for IEEE TMM.
+- *2025.09.19*: &nbsp;🎉 One paper has been accepted as NeurIPS poster.
+- *2025.07.06*: &nbsp;🎉 One co-author paper has been accepted by ACM'MM.
+- *2025.06.26*: &nbsp;🎉 One co-author paper has been accepted by ICCV.
+- *2025.03.29*: &nbsp;🎉 One co-author paper has been accepted by IEEE TMM.
+- *2025.02.14*: &nbsp; Invited as a reviewer for ACM'MM 2025.
+<!-- - *2024.09.02*: &nbsp;🎉 Serve as a reviewer for IEEE TCSVT. -->
+<!-- - *2024.08.13*: &nbsp;🎉 Invited to be a reviewer for upcoming ICLR 2025.  -->
+<!-- - *2024.07.04*: &nbsp;🎉 Serve as a reviewer for IEEE TMM.
 - *2024.07.16*: &nbsp;🎉🎉 One paper was accepted by ACM'MM 2024 as a poster. 
 - *2024.06.19*: &nbsp;🎉🎉 Obtained a doctoral degree.
-- *2024.01.16*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 as a poster. 
+- *2024.01.16*: &nbsp;🎉🎉 One paper was accepted by ICLR 2024 as a poster.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/correlated_lora.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Correlated Low-Rank Adaptation for ConvNets](https://openreview.net/pdf/b9f88bd5ef72c19b08153ef1173f3fb4a5d070b2.pdf)
+
+**Wu Ran**, Weijia Zhang, Shuyang Pang, Qi Zhu, Jinfan Liu, Jingsheng Liu, Xin Cao, Qiang Li, Yichao Yan, Chao Ma.
+
+[[**code**]](https://github.com/VISION-SJTU/CoLoRA)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/rainmer_motivation.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,7 +56,7 @@ redirect_from:
 
 **Wu Ran**, Peirong Ma, Zhiquan He, and Hong Lu.
 
-[[**code**]](https://github.com/Schizophreni/Rainmer) (*codes and pre-traianed models will be uploaded soon*)
+[[**code**]](https://github.com/Schizophreni/Rainmer) (*codes is available. Pre-traianed models will be uploaded soon*)
 </div>
 </div>
 
@@ -67,7 +83,9 @@ TRNR: Task-driven image rain and noise removal with a few images based on patch 
 </div>
 
 ## Other publications
-
+- Implicit retinex decomposition with chromaticity disentanglement for low-light image enhancement, M. Liu, **W. Ran**, Z. He, H. Lu, and P. Ma, *ACM'MM*, 2025.
+- Cross-architecture distillation made simple with redundancy suppression, W. Zhang, Y. Liu, **W. Ran**, and C. Ma, *ICCV*, 2025.
+- Unleashing the potential of hierarchical region clues for open-vocabulary multi-label classification, P. Ma, **W. Ran**, Z. He, J. Pu, and H. Lu, *IEEE TMM*, 2025.
 - Feature decoupling and reorganization network for single image deraining, Y. Cheng, J. Huang, H. Ren, **W. Ran**, and H. Lu, *Multimedia Systems 2024*
 - A transferable generative framework for multi-label zero-shot learning, P. Ma, Z. He, **W. Ran**, and H. Lu, *IEEE TCSVT 2024*
 - Low-light image enhancement with multi-scale attention and frequency-domain optimization, * Z.He, * **W. Ran**, S. Liu, K. Li, J. Lu, C. Xie, Y. Liu, and H. Lu, *IEEE TCSVT 2024* (* equal contribution)
