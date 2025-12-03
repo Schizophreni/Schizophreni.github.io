@@ -38,7 +38,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/correlated_lora.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/correlated_lora.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Correlated Low-Rank Adaptation for ConvNets](https://openreview.net/pdf/b9f88bd5ef72c19b08153ef1173f3fb4a5d070b2.pdf)
