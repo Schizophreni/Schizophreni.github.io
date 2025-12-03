@@ -56,7 +56,7 @@ redirect_from:
 
 **Wu Ran**, Peirong Ma, Zhiquan He, and Hong Lu.
 
-[[**code**]](https://github.com/Schizophreni/Rainmer) (*codes is available. Pre-traianed models will be uploaded soon*)
+[[**code**]](https://github.com/Schizophreni/Rainmer) (*codes are available. Pre-traianed models will be uploaded soon*)
 </div>
 </div>
 
